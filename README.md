@@ -16,86 +16,20 @@ What’s more, the `Raspberry Pi 🥧` has the ability to interact with the outs
 **Any many more**
 
 There are many type of `Raspberry Pi 🥧`
+- Raspberry Pi
+- Raspberry Pi 2
+- Raspberry Pi Zero	
+- Raspberry Pi 3
+- Raspberry Pi 4
+- Raspberry Pi Pico
 
-<table>
-  <tr>
-    <th> Family </th>
-    <th> Model </th>
-    <th> SoC </th>
-    <th> Memory </th> 
-    <th> Form Factor </th> 
-    <th> Ethernet </th>
-    <th> Wireless </th> 
-    <th> GPIO </th>
-    <th> Released</th>
-  </tr>
-  <tr>
-    <td>Raspberry Pi</td>
-    <td>B</td>
-    <td>BCM2835</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Raspberry Pi 2</td>
-    <td>B</td>
-    <td>BCM2836/7</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Raspberry Pi Zero</td>
-    <td>efg</td>
-    <td>BCM2835</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-   <tr>
-    <td>Raspberry Pi 3</td>
-    <td>efg</td>
-    <td>BCM2837A0/B0</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Raspberry Pi 4</td>
-    <td>efg</td>
-    <td>BCM2711</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Raspberry Pi Pico</td>
-    <td>efg</td>
-    <td>RP2040</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>2021</td>
-  </tr>
-</table>
+In this repositories will be focus on Raspberry Pi 4
+![Raspberry Pi 4](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Raspberry_Pi_4_Model_B_-_Side.jpg/800px-Raspberry_Pi_4_Model_B_-_Side.jpg)
+>Raspberry Pi 4 Model B
+
+![Raspberry Pi 4](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RaspberryPi_Model_4B.svg/1920px-RaspberryPi_Model_4B.svg.png)
+>Location of connectors and main ICs on Raspberry Pi 4 Model B
+
 ## How to burn the OS?
 > The `Raspberry Pi 🥧` need an Operating System (OS) to function
 
